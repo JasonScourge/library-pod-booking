@@ -1,0 +1,22 @@
+{
+  "luke.skywalker@resistence.com": {
+    "loginToken": "luke.skywalker@resistence.com",
+    "name": "Luke Skywalker",
+    "bookings": []
+  },
+  "darth.vader@empire.com": {
+    "loginToken": "darth.vader@empire.com",
+    "name": "Darth Vader",
+    "bookings": []
+  },
+  "yoda@jedicouncil.com": {
+    "loginToken": "yoda@jedicouncil.com",
+    "name": "Yoda Adoy",
+    "bookings": []
+  },
+  "general@kenobi.com": {
+    "loginToken": "general@kenobi.com",
+    "name": "General Kenobi",
+    "bookings": []
+  }
+}
