@@ -1,0 +1,13 @@
+.newTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333333;
+}
+
+.datePicker {
+  width: 100%;
+}
+
+.timePicker {
+  width: 100%;
+}
