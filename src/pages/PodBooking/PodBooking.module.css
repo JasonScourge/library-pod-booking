@@ -1,0 +1,29 @@
+.mainPage {
+  background-color: #dfdfdf;
+  height: 100vh;
+}
+
+.logout {
+  float: right;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.logoutIcon {
+  margin-left: 0.5rem;
+}
+
+.buttonContainer {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.getStartedMessage {
+  margin: auto auto;
+  text-align: center;
+  font-weight: 500;
+  font-size: 1rem;
+  font-style: italic;
+  color: #595959;
+}
