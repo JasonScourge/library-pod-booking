@@ -27,16 +27,16 @@ Launches the test runner and generates a coverage report.
 ## Login Details
 Please use any of the following usernames and passwords to login:
 
-Username: luke.skywalker@resistence.com
+Username: luke.skywalker@resistence.com\
 Password: qwe
 
-Username: darth.vader@empire.com
+Username: darth.vader@empire.com\
 Password: 123
 
-Username: yoda@jedicouncil.com
+Username: yoda@jedicouncil.com\
 Password: doordonot
 
-Username: general@kenobi.com
+Username: general@kenobi.com\
 Password: hellothere
 
 You can alternatively click on "Forgot Password" to view these login details as well.
