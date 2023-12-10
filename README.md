@@ -1,6 +1,6 @@
 # Library Pod Booking
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an example of how a simple utility website can be created easily using React. It mainly uses Ant Design for its UI stylings and React-Router for routing of pages.
 
 ## Available Scripts
 
